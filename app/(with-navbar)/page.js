@@ -9,6 +9,7 @@ import React from 'react'
 import InterviewPrepSection from '@/components/interviewPrepSection';
 import Footer from '@/components/footer';
 import Pricing from '@/components/pricing';
+import FounderSection from '@/components/founderSection';
 
 const Page = () => {
 
@@ -28,6 +29,7 @@ const Page = () => {
       <CVSection />
       <InterviewPrepSection />
       <CoverLetterSection />
+      <FounderSection />
       <Footer />
     </div>
   )
