@@ -41,9 +41,9 @@ const FounderSection = () => {
             <div>
               <h3 className='font-playfair text-3xl font-bold text-[#0d0729]'>Zindzi Nsingwana</h3>
             </div>
-            <p className='text-gray-600 text-lg'>Zindzi founded USIZO to make professional career services affordable and accessible to everyone.</p>
-            <p className='text-gray-600 text-lg'>From CVs and cover letters to interview preparation, she provides personalised guidance based on each person's goals and needs.</p>
-           
+            <p className='text-gray-600 text-lg'>Zinzi is a Career Guidance Coach and Specialist who has invested in ongoing professional development to sharpen the skills she brings to every client relationship. What started in 2021 as a side hustle to earn extra income after graduating university has grown into a calling.</p>
+            <p className='text-gray-600 text-lg'>The passion came later — when Zinzi returned to Nkomazi, Mpumalanga, the community where she was born, and saw the real shape of the unemployment problem there. It wasn't only a shortage of opportunities. It was a lack of employability skills, and CVs that failed to tell a candidate's story before they ever reached a recruiter. That gap became the founding purpose of USIZO Services.</p>
+            <p className='text-gray-600 text-lg'>Zinzi's work is rooted in care, passion, and a deep belief in levelling the playing field for the youth, professionals, and broader community of Nkomazi. Through affordable, accessible services, she's committed to helping every client walk into their next opportunity with the strongest possible chance of getting the job.</p>   
           </div>
         </div>
       </Reveal>

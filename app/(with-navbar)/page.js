@@ -24,12 +24,12 @@ const Page = () => {
   return (
     <div>
       <Hero />
+      <FounderSection />
       <Services />
       <Pricing />
       <CVSection />
       <InterviewPrepSection />
       <CoverLetterSection />
-      <FounderSection />
       <Footer />
     </div>
   )
