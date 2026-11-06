@@ -7,7 +7,6 @@ const Page = () => {
         heading={"Book Your Interview Preparation Session"}
         amount={150}
         service_id={4}
-        callback_url={"https://docs.google.com/forms/d/e/1FAIpQLSf9KOtBdluKxl_lBuIooc8NjubwdPRpdNiUQXXh4xPegSQdVw/viewform"}
     />
   )
 }

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "amount": 5000,
+    "form": null
+  },
+  "1": {
+    "amount": 7000,
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLScVwkrrxaRwNxSCnMmr6QnR2fOK3UFLQJcMqz4DF7pXiNU9Yg/viewform?pli=1"
+  },
+  "2": {
+    "amount": 8000,
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLSc5Kq3siizIADxEGE34pOF1vWZUqNEjfjzWrZO1ESDCtW97Zg/viewform"
+  },
+  "3": {
+    "amount": 10000,
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLSc5Kq3siizIADxEGE34pOF1vWZUqNEjfjzWrZO1ESDCtW97Zg/viewform"
+  },
+  "4": {
+    "amount": 15000,
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLSf9KOtBdluKxl_lBuIooc8NjubwdPRpdNiUQXXh4xPegSQdVw/viewform"
+  }
+}

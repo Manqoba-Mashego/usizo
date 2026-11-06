@@ -6,8 +6,7 @@ const page = () => {
     <Email 
       heading={"Get Your Professional Template"} 
       amount={50} 
-      service_id={0} 
-      callback_url={`${process.env.NEXT_PUBLIC_BASE_URL}/cover-letter-template/verify`}
+      service_id={0}
     />
   )
 }
